@@ -21,13 +21,13 @@ Aquí debemos de poner la descripción del proyecto que vamos a realizar
 Primero clona el repositorio desde GitHub:
 
 ```shell
-git clone 
+git clone https://github.com/nehuenortega/PIG_Django
 ```
 
 Muévete a la carpeta del proyecto:
 
 ```shell
-cd c9-50-ft-mern
+cd PIG_Django
 ```
 
 ## ⚙️ Esta aplicación fue construida usando las siguientes tecnologías
